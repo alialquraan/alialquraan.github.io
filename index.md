@@ -2,11 +2,11 @@
 layout: default
 ---
 
-# Your Name
+# Ali Alquraan
 
 ## About
 
-I am a recent graduate in [Computer Science / Electrical Engineering] from [University Name] in Jordan. I am building expertise in applied AI and ML systems through the AI.SPIRE program. I am most interested in [your areas of interest — e.g., NLP, computer vision, data engineering, deployment].
+I am a Mathematics graduate from Yarmouk university in Jordan , leveraging a strong logical and analytical foundation to build intelligent systems. Currently, I am an AI Engineering Trainee at AI.SPIRE, focusing on data engineering, machine learning pipelines, and developing production-ready AI models. I am particularly interested in Data Engineering, SQL optimization, and Machine Learning workflows.
 
 ---
 
@@ -26,8 +26,8 @@ I am a recent graduate in [Computer Science / Electrical Engineering] from [Univ
 
 **Data Pipelines & PyTorch Fundamentals**
 
-- **Data Pipeline** — Built an end-to-end data loading and preprocessing pipeline using pandas, with validation checks and reproducible outputs.
-  - Repo: [your-repo-link](#)
+- **Data Pipeline** —ETL Pipeline for Sales Analytics — Developed a Python-based ETL pipeline that extracts sales data from CSV and PostgreSQL, transforms it with validation rules, and generates automated     quality reports.
+  - Repo: [your-repo-link](https://github.com/LevelUp-Applied-AI/m3-i3-etl-pipeline-alialquraan.git)
   - Skills: Python, pandas, data cleaning, pipeline design
 
 - **PyTorch Model** — Implemented a neural network training loop in PyTorch, including data loading, forward/backward passes, and evaluation metrics.
@@ -43,7 +43,7 @@ I am a recent graduate in [Computer Science / Electrical Engineering] from [Univ
 **Data Visualization & Communication**
 
 - **Project Name** — One sentence describing what you built.
-  - Repo: [link](#)
+  - Repo: [link](https://github.com/LevelUp-Applied-AI/m4-l4-descriptive-analytics-alialquraan-1.git)
   - Skills: Matplotlib, data storytelling
 
 ---
