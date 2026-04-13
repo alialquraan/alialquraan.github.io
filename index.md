@@ -17,11 +17,11 @@ I am a Mathematics graduate from Yarmouk university in Jordan , leveraging a str
 **Git, Environment Setup & Collaboration**
 
 - **Environment & Git Workflows** — Set up a reproducible Python development environment and practiced branching, merging, and pull request workflows.
-  - Repo: [your-repo-link](#)
+  - Repo: [your-repo-link](https://github.com/LevelUp-Applied-AI/m1-l1-git-workflows-alialquraan.git)
   - Skills: Git, GitHub, VS Code, virtual environments, branch management
 
 - **Team Collaboration Pipeline** — Collaborated on a shared repository using feature branches and code review, resolving merge conflicts and maintaining a clean commit history.
-  - Repo: [your-repo-link](#)
+  - Repo: [your-repo-link](https://github.com/LevelUp-Applied-AI/m1-d1-git-workflows-alialquraan.git)
   - Skills: Git collaboration, pull requests, code review, merge conflict resolution
 
 **Data Pipelines & PyTorch Fundamentals**
@@ -31,13 +31,13 @@ I am a Mathematics graduate from Yarmouk university in Jordan , leveraging a str
   - Skills: Python, pandas, data cleaning, pipeline design
 
 - **PyTorch Model** — Implemented a neural network training loop in PyTorch, including data loading, forward/backward passes, and evaluation metrics.
-  - Repo: [your-repo-link](#)
+  - Repo: [your-repo-link](https://github.com/LevelUp-Applied-AI/m2-i2-pytorch-alialquraan.git)
   - Skills: PyTorch, tensor operations, training loops, model evaluation
 
 **Relational Databases & SQL**
 
-- **Project Name** — One sentence describing what you built.
-  - Repo: [link](#)
+- **Project Name** —SQL fundamental.
+  - Repo: [link](https://github.com/LevelUp-Applied-AI/m3-l3-sql-analytics-alialquraan.git)
   - Skills: SQL, PostgreSQL, data modeling
 
 **Data Visualization & Communication**
