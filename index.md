@@ -87,7 +87,7 @@ I am a Mathematics graduate from Yarmouk university in Jordan , leveraging a str
 
 ---
 
-### Deployment
+``### Deployment
 
 **API Development & Containerization**
 
@@ -107,7 +107,7 @@ I am a Mathematics graduate from Yarmouk university in Jordan , leveraging a str
 
 - **Project Name** — Project coming soon as part of the AI.SPIRE curriculum.
   - Repo: [link](#)
-  - Skills: Full-stack AI/ML system
+  - Skills: Full-stack AI/ML system ``
 
 ---
 
