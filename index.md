@@ -42,7 +42,7 @@ I am a Mathematics graduate from Yarmouk university in Jordan , leveraging a str
 
 **Data Visualization & Communication**
 
-- **Project Name** — One sentence describing what you built.
+- **Project Name** — descriptive analytics.
   - Repo: [link](https://github.com/LevelUp-Applied-AI/m4-l4-descriptive-analytics-alialquraan-1.git)
   - Skills: Matplotlib, data storytelling
 
@@ -52,19 +52,19 @@ I am a Mathematics graduate from Yarmouk university in Jordan , leveraging a str
 
 **Machine Learning Fundamentals**
 
-- **Project Name** — One sentence describing what you built.
+- **Project Name** — Project coming soon as part of the AI.SPIRE curriculum.
   - Repo: [link](#)
   - Skills: scikit-learn, model evaluation
 
 **Natural Language Processing**
 
-- **Project Name** — One sentence describing what you built.
+- **Project Name** — Project coming soon as part of the AI.SPIRE curriculum.
   - Repo: [link](#)
   - Skills: spaCy, text preprocessing, NLP pipelines
 
 **Deep Learning for NLP**
 
-- **Project Name** — One sentence describing what you built.
+- **Project Name** — Project coming soon as part of the AI.SPIRE curriculum.
   - Repo: [link](#)
   - Skills: PyTorch, Hugging Face, transformers
 
@@ -74,14 +74,14 @@ I am a Mathematics graduate from Yarmouk university in Jordan , leveraging a str
 
 **Retrieval-Augmented Generation**
 
-- **Project Name** — One sentence describing what you built.
+- **Project Name** — Project coming soon as part of the AI.SPIRE curriculum.
   - Repo: [link](#)
   - Skills: Weaviate, RAG pipelines, embeddings
   - [Read more](projects/sample-project.md) *(optional -- use for projects complex enough to warrant a detail page)*
 
 **Knowledge Graphs**
 
-- **Project Name** — One sentence describing what you built.
+- **Project Name** — Project coming soon as part of the AI.SPIRE curriculum.
   - Repo: [link](#)
   - Skills: Triple stores, SPARQL, knowledge representation
 
@@ -91,13 +91,13 @@ I am a Mathematics graduate from Yarmouk university in Jordan , leveraging a str
 
 **API Development & Containerization**
 
-- **Project Name** — One sentence describing what you built.
+- **Project Name** — Project coming soon as part of the AI.SPIRE curriculum.
   - Repo: [link](#)
   - Skills: FastAPI, Docker, deployment
 
 **Monitoring & Production Systems**
 
-- **Project Name** — One sentence describing what you built.
+- **Project Name** — Project coming soon as part of the AI.SPIRE curriculum.
   - Repo: [link](#)
   - Skills: Monitoring, logging, production reliability
 
@@ -105,7 +105,7 @@ I am a Mathematics graduate from Yarmouk university in Jordan , leveraging a str
 
 ### Capstone
 
-- **Project Name** — One sentence describing your capstone.
+- **Project Name** — Project coming soon as part of the AI.SPIRE curriculum.
   - Repo: [link](#)
   - Skills: Full-stack AI/ML system
 
@@ -113,6 +113,7 @@ I am a Mathematics graduate from Yarmouk university in Jordan , leveraging a str
 
 ## Contact
 
-- **GitHub:** [your-github-username](https://github.com/your-github-username)
-- **LinkedIn:** [your-linkedin-profile](https://linkedin.com/in/your-profile)
-- **Email:** your.email@example.com
+- **GitHub:** [alialquraan](https://github.com/alialquraan)
+- **LinkedIn:** [Ali Mohmmad](https://www.linkedin.com/in/ali-mohmmad-52a482344/)
+- **Email:** alquraanali42@gmail.com
+
