@@ -46,7 +46,6 @@ I am a Mathematics graduate from Yarmouk university in Jordan , leveraging a str
   - Repo: [link](https://github.com/LevelUp-Applied-AI/m4-l4-descriptive-analytics-alialquraan-1.git)
   - Skills: Matplotlib, data storytelling
 
-"
 ## Contact
 
 - **GitHub:** [alialquraan](https://github.com/alialquraan)
